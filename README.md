@@ -1,7 +1,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScmTble&layout=compact)](https://github.com/Cocowwy/github-readme-stats">
 
-### Weclome~ This is ScmTble
+### Hi,I'm ScmTble
 - 🔭 I’m a Student
 - 🌱 I like playing game
 - 💬 Email ScmTble@qq.com
