@@ -7,4 +7,4 @@
 - 💬 Email ScmTble@qq.com
 - 😄 Studying ~
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ScmTble" alt="ScmTble's github stats"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ScmTble&show_icons=true" alt="ScmTble's github stats"/>
