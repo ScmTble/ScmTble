@@ -1,5 +1,5 @@
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScmTble" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScmTble&locale=cn" />
 
 ### Hi,I'm ScmTble
 - 🔭 I’m a Student
