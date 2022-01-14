@@ -1,5 +1,5 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScmTble"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScmTble&layout=compact"/>
 </a>
 
 ### Hi,I'm ScmTble
